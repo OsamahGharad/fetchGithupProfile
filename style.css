@@ -61,3 +61,23 @@ a:hover{
     color: #ad6e15;
     font-weight: 500;
 }
+
+/* #repos{
+    /* display: flex;
+    padding: 30px;
+    color: white; */
+/* } */ 
+.reop_list{
+    display: flex;
+    justify-content: space-between;
+    border-right: orange solid 1px;
+    border-left:orange solid 1px;
+   
+    /* border:orange solid 1px; */
+    border-radius: 5;
+    padding:10px;
+    margin-bottom: 10px;
+}
+.reop_list p{
+    margin-left: 10px;
+}
